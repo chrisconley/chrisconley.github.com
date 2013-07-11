@@ -7,6 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
+
 ### Dremel DB and Golang Sitting in a Tree
 [Dremel DB](http://net.pku.edu.cn/~course/cs501/2012/reading/2010-VLDB-Dremel%20Interactive%20Analysis%20of%20Web-Scale%20Datasets.pdf)
 is a column store database from Google that allows efficient storage of arbritrarily nested data structures. It's used
